@@ -1,2 +1,2 @@
 # worldquiz
-A gama of countries and capital cities of all the world.
+A game of countries and capital cities of all the world.
